@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "abhi",
+      "username": "02Abhi",
+      "email": "abhi@shah.com",
+      "phone": "09876543210",
+      "website": "shah.com",
+      "id": 1
+    },
+    {
+      "name": "anuj",
+      "username": "anuj14",
+      "email": "anuj@shah.com",
+      "phone": "9876543210",
+      "website": "anuj.com",
+      "id": 2
+    }
+  ]
+}
